@@ -1,0 +1,7 @@
+maths
+social
+english
+science
+telugu
+hindi
+tamil
